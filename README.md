@@ -1,3 +1,5 @@
+This repos is moved here --> https://github.com/micro-ROS/benchmarking
+
 # Welcome to the Benchmarking tool
 
 The benchmarking tool is intended for embedded software benchmarking with 
